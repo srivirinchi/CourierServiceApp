@@ -1,0 +1,48 @@
+var maxSal = table.max(x => x.salary);
+var result = table.First(x => x.salary == maxSal);
+
+list < employee > lst = dt.t
+
+var secondLar = lst.GroupBy(x = >
+
+Create function Function1()
+return table
+as
+return( Select * from employee)
+
+
+Employee
+ID		Name		DeptID
+1		A			100
+2		B			100
+3		C			200
+4		D			100
+5		E			300
+
+
+Department
+ID		Name
+100			QA
+200			dev
+300			sales
+
+$("#gvemployee)
+
+gvemployee
+txtname
+txtsalary
+ddldept
+
+$(function(){
+$('#txtname').change(function(){
+var $current = $(this)
+$("#txtname").each(function()
+
+if($(this).val == $current.val())
+{
+alert('Duplicate record found');
+}
+})
+})
+
+<asp: 
